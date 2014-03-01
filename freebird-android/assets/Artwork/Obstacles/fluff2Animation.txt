@@ -1,0 +1,18 @@
+fluff2Animation.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Large fluff 2
+  rotate: false
+  xy: 2, 2
+  size: 253, 235
+  orig: 253, 235
+  offset: 0, 0
+  index: -1
+Large fluff
+  rotate: false
+  xy: 257, 2
+  size: 253, 228
+  orig: 253, 228
+  offset: 0, 0
+  index: -1

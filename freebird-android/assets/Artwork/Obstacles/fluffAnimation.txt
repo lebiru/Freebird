@@ -1,0 +1,18 @@
+fluffAnimation.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fluff frame 1
+  rotate: false
+  xy: 0, 0
+  size: 123, 120
+  orig: 151, 138
+  offset: 16, 11
+  index: -1
+Fluff frame 2
+  rotate: false
+  xy: 0, 120
+  size: 123, 106
+  orig: 151, 138
+  offset: 16, 14
+  index: -1

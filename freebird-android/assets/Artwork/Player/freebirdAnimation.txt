@@ -1,0 +1,18 @@
+freebirdAnimation.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bird right frame 1
+  rotate: false
+  xy: 185, 0
+  size: 185, 200
+  orig: 245, 228
+  offset: 0, 0
+  index: -1
+Bird right frame 2
+  rotate: false
+  xy: 0, 0
+  size: 185, 200
+  orig: 245, 228
+  offset: 0, 0
+  index: -1
